@@ -1,6 +1,6 @@
 # Retail Sales Analysis
 
-**Week 6 Final Project**  
+** Final Project**  
 **Name:** Atanu Manna
 
 ## About this project
